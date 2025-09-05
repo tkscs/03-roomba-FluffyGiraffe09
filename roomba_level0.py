@@ -19,9 +19,9 @@ for i in range(2):
     forward(40)
     left(90)
     forward(40*4)
-    left(270)
+    right(90)
     forward(40)
-    left(270)
+    right(90)
 forward(40*4)
 # End your code here
 ###
